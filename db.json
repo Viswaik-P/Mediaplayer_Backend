@@ -1,0 +1,74 @@
+{
+  "videos": [
+    {
+      "id": "4",
+      "caption": "jawan",
+      "url": "https://th.bing.com/th/id/OIP.XBmcgoV1_7KJFKo_1Yb2WwAAAA?pid=ImgDet&rs=1",
+      "embedLink": "https://www.youtube.com/embed/2OhhNtZCHfg"
+    },
+    {
+      "id": "14",
+      "caption": "RDX",
+      "url": "https://10to5.in/wp-content/uploads/2023/09/RDX-Malayalam-Film-Song.jpg",
+      "embedLink": "https://www.youtube.com/embed/nYEoxne_20Y"
+    },
+    {
+      "id": "15",
+      "caption": "King Of Kotha",
+      "url": "https://timesofindia.indiatimes.com/photo/msid-103357104,imgsize-218852.cms",
+      "embedLink": "https://www.youtube.com/embed/0SyF0Py-NdI"
+    }
+  ],
+  "categories": [
+    {
+      "CategoryName": "Malayalam Movie Songs",
+      "allvideos": [
+        {
+          "id": "14",
+          "caption": "RDX",
+          "url": "https://10to5.in/wp-content/uploads/2023/09/RDX-Malayalam-Film-Song.jpg",
+          "embedLink": "https://www.youtube.com/embed/nYEoxne_20Y"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "CategoryName": "Tamil Movie Songs",
+      "allvideos": [
+        {
+          "id": "1",
+          "caption": "leo",
+          "url": "https://images.indianexpress.com/2023/02/Thalapathy-67-is-titled-Leo-Bloody-Sweet.jpg",
+          "embedLink": "https://www.youtube.com/embed/WWr9086eWtY"
+        },
+        {
+          "id": "1",
+          "caption": "leo",
+          "url": "https://images.indianexpress.com/2023/02/Thalapathy-67-is-titled-Leo-Bloody-Sweet.jpg",
+          "embedLink": "https://www.youtube.com/embed/WWr9086eWtY"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "caption": "Jailer",
+      "embedLink": "https://www.youtube.com/embed/1F3hm6MfR1k",
+      "timestamp": "15/11/2023, 10:16:18",
+      "id": 1
+    },
+    {
+      "caption": "leo",
+      "embedLink": "https://www.youtube.com/embed/WWr9086eWtY",
+      "timestamp": "17/11/2023, 11:50:18",
+      "id": 2
+    },
+    {
+      "caption": "RDX",
+      "embedLink": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "timestamp": "17/11/2023, 11:50:50",
+      "id": 3
+    }
+  ]
+}
